@@ -1,27 +1,50 @@
-## Hi there 👋
 
-<!--Hi, I'm Ralph K. Hyacinthe 👋
-⭐️ About Me:
+# Hi there I'm Ralph K. Hyacinthe 👋
 
-I’m a senior at Colgate University, double majoring in Computer Science and Political Science, with plans to graduate in December 2025. My curiosity about how systems—both technical and societal—operate has driven me to pursue an interdisciplinary academic path. I love exploring how technology can solve complex problems and create meaningful change, whether through designing innovative software solutions or understanding how political systems shape decision-making.
+Welcome to my GitHub profile!
 
-Through Political Science, I’ve developed strong analytical, communication, and problem-solving skills that help me collaborate effectively and articulate ideas clearly. In Computer Science, I’ve gained hands-on experience building impactful projects like FitsFit, an online tool for personalized clothing fit recommendations that uses Flask, React, and MongoDB.
-💻 Tech Stack:
+---
 
-Programming Languages: Java, Python, JavaScript, TypeScript, C, R, HTML, CSS
-Technologies & Tools: React, Flask, SpringBoot, MongoDB, PostgreSQL, REST APIs, .NET, TailwindCSS
+## ⭐️ About Me  
 
-I’ve worked extensively with full-stack technologies, particularly Flask and React, to develop scalable and user-focused applications. Projects like ShopEase and FitsFit showcase my ability to design end-to-end solutions that enhance user experiences. I’ve also explored backend development with SpringBoot and PostgreSQL, implementing secure REST APIs and scalable databases.
-🚀 What I’m Working On Now:
+I am a senior at Colgate University, double majoring in Computer Science and Political Science, with plans to graduate in December 2025. My interdisciplinary academic background equips me with the technical expertise to tackle complex problems and a deep understanding of the political and social systems that shape our world.  
 
-I’m currently enhancing my understanding of machine learning and AI, especially their applications in creating interactive tools like chatbots and recommendation systems. These emerging technologies fascinate me, and I’m eager to incorporate them into future projects.
-📫 How to Reach Me:
+Through my studies in Political Science, I’ve developed strong analytical, communication, and problem-solving skills that enable me to collaborate effectively and articulate ideas clearly. These skills complement my technical experience, which includes developing projects like **FitsFit**, an online tool for personalized clothing fit recommendations. Using **Flask, React, and MongoDB**, I designed a full-stack application focused on user needs and innovative solutions.  
 
-I’m always open to discussing tech, collaborating on projects, or sharing insights about my journey. Feel free to reach out—I’m always up for a good conversation!
+I am passionate about leveraging technology to address real-world challenges and create meaningful impact. Whether through building user-centered applications or exploring emerging technologies like AI and containerization, I’m eager to contribute my unique combination of skills to dynamic and forward-thinking projects.  
 
-    LinkedIn: linkedin.com/in/ralphhyacinthe/
-    GitHub: github.com/RHy910
-    Email: RHyacinthe@colgate.edu
-**RHy910/RHy910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+---
+
+## 💻 Tech Stack  
+
+| **Category**      | **Technologies**                             |
+|--------------------|----------------------------------------------|
+| **Languages**      | Java, Python, JavaScript, TypeScript, R, C  |
+| **Frontend**       | React, Angular, TailwindCSS                 |
+| **Backend**        | Flask, SpringBoot, Node.js, REST APIs       |
+| **Tools/Platforms**| Docker, Kubernetes, MongoDB, PostgreSQL, .NET |
+
+I’ve worked extensively with full-stack technologies, particularly Flask and React, to build scalable, user-friendly applications. Projects like **ShopEase** and **FitsFit** exemplify my ability to design and implement complete solutions.  
+
+---
+
+## 🚀 What I’m Working On  
+
+- Deepening my skills in **cloud technologies**, including **Kubernetes** and **Docker**, to enhance scalability in modern software deployment.  
+- Exploring **Angular** to level up my frontend development.  
+- Experimenting with **AI tools** for chatbots and recommendation systems to incorporate them into future projects.  
+
+---
+
+## 📫 How to Reach Me  
+
+Let’s connect! I’m always open to discussing tech, collaborating on projects, or exchanging ideas.  
+
+- **LinkedIn:** [linkedin.com/in/ralphhyacinthe/](https://linkedin.com/in/ralphhyacinthe/)  
+- **GitHub:** [github.com/RHy910](https://github.com/RHy910)  
+- **Email:** [RHyacinthe@colgate.edu](mailto:RHyacinthe@colgate.edu) 
+-----
+
   
 
