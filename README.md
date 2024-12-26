@@ -22,7 +22,7 @@ I am passionate about leveraging technology to address real-world challenges and
 |--------------------|----------------------------------------------|
 | **Languages**      | Java, Python, JavaScript, TypeScript, R, C  |
 | **Frontend**       | React, Angular, TailwindCSS                 |
-| **Backend**        | Flask, SpringBoot, Node.js, MongoDB, SpringBoot, REST APIs|
+| **Backend**        | Flask, Node.js, MongoDB, SpringBoot, REST APIs|
 | **Tools/Platforms**| AWS, Kafka, Docker, Kubernetes, AWS EKS, Linux, Selenium, NET, Pyzest, PostgreSQL, Git, Bash, VS Code, IntelliJ, Eclipse|
 
 I’ve worked extensively with full-stack technologies, particularly Flask and React, to build scalable, user-friendly applications. Projects like **ShopEase** and **FitsFit** exemplify my ability to design and implement complete solutions.  
