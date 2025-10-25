@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 
 ## ⭐️ About Me  
 
-I am a senior at Colgate University, double majoring in Computer Science and Political Science, with plans to graduate in December 2025. My interdisciplinary academic background equips me with the technical expertise to tackle complex problems and a deep understanding of the political and social systems that shape our world.  
+I am a Stuent at Colgate University, double majoring in Computer Science and Political Science. My interdisciplinary academic background equips me with the technical expertise to tackle complex problems and a deep understanding of the political and social systems that shape our world.  
 
 Through my studies in Political Science, I’ve developed strong analytical, communication, and problem-solving skills that enable me to collaborate effectively and articulate ideas clearly. These skills complement my technical experience, which includes developing projects like **FitsFit**, an online tool for personalized clothing fit recommendations. Using **Flask, React, and MongoDB**, I designed a full-stack application focused on user needs and innovative solutions.  
 
