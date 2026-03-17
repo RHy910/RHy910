@@ -2,7 +2,7 @@
 
 CS + Poli Sci @ Colgate University. I build systems from autonomous robots to security infrastructure . Currently focused on robotics, autonomous systems, and the software that makes machines intelligent.
 
-Incoming: **Datadog** · AWS Certified
+Incoming: **Datadog** 
 
 ---
 
