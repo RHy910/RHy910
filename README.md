@@ -17,10 +17,10 @@ Incoming: **Datadog**
 ## Stack
 
 ```
-Robotics      ROS 2 · Gazebo · ESP32 · Docker
+Robotics        ROS 2 · Gazebo · ESP32 · Docker
 Infrastructure  AWS (EC2, S3, EKS) · Kubernetes · Kafka · Datadog
-Backend       Python · Java · C · Node.js · Flask · SpringBoot
-Data          PostgreSQL · MongoDB · ChromaDB
+Backend         Python · C/C++ · Java · Flask · SpringBoot
+Data            PostgreSQL · MongoDB · ChromaDB · Qdrant
 ```
 
 ---
