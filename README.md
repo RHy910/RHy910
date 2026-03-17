@@ -1,6 +1,6 @@
 # Ralph Hyacinthe
 
-CS + Political Science @ Colgate University. I build systems — from autonomous robots to security infrastructure to full-stack products. Currently focused on robotics, autonomous systems, and the software that makes machines intelligent.
+CS + Poli Sci @ Colgate University. I build systems from autonomous robots to security infrastructure . Currently focused on robotics, autonomous systems, and the software that makes machines intelligent.
 
 Incoming: **Datadog** · AWS Certified
 
@@ -8,7 +8,7 @@ Incoming: **Datadog** · AWS Certified
 
 ## What I'm Building
 
-**[laundry_dt](https://github.com/RHy910/laundry_bot)** — A 3-segment autonomous laundry robot with a ROS 2 control stack and digital twin pipeline. The robot navigates stairs, loads washing machines, monitors cycles, and returns clean laundry — autonomously. Built with per-segment ultrasonic sensing, stepper dead reckoning for non-uniform stair climbing, and a finite state machine controller. Same architecture used by autonomous vehicle companies to validate robot behavior before physical deployment.
+**[laundry_dt](https://github.com/RHy910/laundry_bot)** — A 3-segment autonomous laundry robot with a ROS 2 control stack and digital twin pipeline. The robot navigates stairs, loads washing machines, monitors cycles, and returns clean laundry — autonomously. Built with per-segment ultrasonic sensing, stepper dead reckoning for non-uniform stair climbing, and a finite state machine controller. 
 
 **[VecSec](https://github.com/ghostai-labs/VecSec)** — Security testing framework for RLS-protected vector databases. Built at CalHacks. Automated attack generation (prompt injection, privilege escalation, data exfiltration), pattern-based threat detection, and real-time metrics via Prometheus + Grafana. Containerized with Docker, full CI pipeline.
 
